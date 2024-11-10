@@ -35,7 +35,7 @@ print("Selesai")
 
 ```
 # Output Program
-
+<img width="721" alt="latian1 py" src="https://github.com/user-attachments/assets/072b84a1-894b-4f57-910f-31af20cd143d">
 
 # Cara Kerja Program
 Input Pengguna: Pengguna diminta untuk memasukkan sebuah angka N yang menunjukkan jumlah bilangan acak kurang dari 0.5 yang harus ditampilkan.
@@ -93,7 +93,7 @@ for bulan in range(1, 9):
 print(f"Total laba adalah: {total_laba}")
 ```
 # Output Program
-https://github.com/yanuarss1/labpy03.git<img width="755" alt="latian2 py" src="https://github.com/user-attachments/assets/8fe51bd1-9b54-4529-8ef9-4a85fa9a8796">
+<img width="755" alt="latian2 py" src="https://github.com/user-attachments/assets/8fe51bd1-9b54-4529-8ef9-4a85fa9a8796">
 
 # Cara Kerja Program
 1. Input dan inisialisasi:
